@@ -9,7 +9,7 @@ He is cute.
 I forked the [original](https://github.com/JohnnyUrosevic/Momotype) repo because I wanted to make the game work on Android. And I did. But it cost my sanity.
 
 ## Downloading
-You can simply grab the [universal APK](https://github.com/rojaoo/Momotype-android/releases/download/v2.1/momotype-armeabi-universal-release.apk) from the [releases](https://github.com/rojaoo/Momotype-android/releases/) section, and it should work just fine.
+You can simply grab the [universal APK](https://github.com/rojaoo/Momotype-android/releases/download/v2.1/momotype2.1-armeabi-universal-release.apk) from the [releases](https://github.com/rojaoo/Momotype-android/releases/) section, and it should work just fine.
 
 ## Building
 So, you want to build it yourself? Start by downloading the [source code](https://github.com/rojaoo/Momotype-android/archive/refs/heads/master.zip) (or clone the repo, your choice), then get [Ren'Py 7.4.6](https://www.renpy.org/release/7.4.6) and Java 8.
@@ -25,5 +25,7 @@ I only did this because the [original](https://github.com/JohnnyUrosevic/Momotyp
 
 ## To do
 - [x] Build APK and release
-- [ ] Add APK icon 
+- [x] Add APK icon
+- [ ] Fix Play Protect pop up while installing
+- [ ] Get rid of the "Ren'py loading..." screen
 - [ ] PT-BR translation
