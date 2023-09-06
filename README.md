@@ -16,7 +16,7 @@ So, you want to build it yourself? Start by downloading the [source code](https:
 
 Now, grab the folder that contains the [game](https://github.com/rojaoo/Momotype-android/tree/master/game) folder and drop it into Ren'Py's directory.
 
-After that, open it, follow Ren'Py's instructions, and the program itself should take care of the rest for you.
+After that, open Ren'Py, follow the build instructions, and the program itself should take care of the rest for you.
 
 # Disclaimer
 I really hope getting the game files from Steam is not a problem. **If it is, please let me know**. The game is free, and you can check it [here](https://store.steampowered.com/app/1822190/Momotype/).
