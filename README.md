@@ -26,6 +26,6 @@ I only did this because the [original](https://github.com/JohnnyUrosevic/Momotyp
 ## To do
 - [x] Build APK and release
 - [x] Add APK icon
+- [x] Get rid of the "Ren'py loading..." screen
 - [ ] Fix Play Protect pop up while installing
-- [ ] Get rid of the "Ren'py loading..." screen
 - [ ] PT-BR translation
