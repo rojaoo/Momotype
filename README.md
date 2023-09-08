@@ -29,3 +29,12 @@ I only did this because the [original](https://github.com/JohnnyUrosevic/Momotyp
 - [x] Get rid of the "Ren'py loading..." screen
 - [ ] Fix Play Protect pop up while installing
 - [ ] PT-BR translation
+
+## Tested On
+
+- **Android 10**
+  - Status: ✅ Working
+- **Android 11**
+  - Status: ✅ Working
+- **Android 13**
+  - Status: ✅ Working
