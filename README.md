@@ -19,9 +19,9 @@ Now, grab the folder that contains the [game](https://github.com/rojaoo/Momotype
 After that, open Ren'Py, follow the build instructions, and the program itself should take care of the rest for you.
 
 # Disclaimer
-I really hope getting the game files from Steam is not a problem. **If it is, please let me know**. The game is free, and you can check it [here](https://store.steampowered.com/app/1822190/Momotype/).
+I really hope getting the game files from Steam is not a problem. **If it is a problem, please let me know**. The game is free, and you can check it [here](https://store.steampowered.com/app/1822190/Momotype/).
 
-I only did this because the [original](https://github.com/JohnnyUrosevic/Momotype) source code was causing the game to crash with every version of Ren'Py I tested, even crashing with the built APK. So, I got the idea of getting the game files from the Steam's directory, and it worked just fine.
+I only did this because the [original](https://github.com/JohnnyUrosevic/Momotype) source code was causing the game to crash with every version of Ren'Py I tested, even crashing with the built APK. So, I got the idea of getting the game files from the Steam's directory, since the game is free there and probably is the same code, and it worked just fine.
 
 ## To do
 - [x] Build APK and release
